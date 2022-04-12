@@ -1,0 +1,10 @@
+header{
+    font-size: 28px;
+    font-family:  'Baloo Bhai 2',cursive;
+    text-align: center;
+}
+.box{
+    display: block;
+    float: left;
+    width:20%;
+}
